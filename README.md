@@ -7,10 +7,13 @@ Proiect de Business Intelligence realizat în Tableau Prep Builder și Tableau D
 
 📁 Structura proiectului
 
-├── Analiza_companii_final.twbx              # Workbook Tableau Desktop (dashboards + story)
-├── Date_financiare_firme_MS_curatate.tflx   # Flow Tableau Prep Builder
-├── Documentatie.pdf                          # Documentația completă a proiectului
-└── README.md
+Analiza_companii_final.twbx  - Workbook Tableau Desktop (dashboards + story)
+
+Date_financiare_firme_MS_curatate.tflx - Flow Tableau Prep Builder 
+
+Documentatie.pdf - Documentația completă a proiectului
+
+README.md
 
 
 ⚠️ Fișierul .tflx este un flow "linked" (nu conține datele brute incluse), iar .twbx este un packaged workbook. Pentru rulare completă este nevoie de sursele de date originale.
